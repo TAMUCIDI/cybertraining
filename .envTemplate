@@ -1,5 +1,0 @@
-# OAuth Config
-# change the name of this file to .env
-OAUTH_CLIENT_ID =
-OAUTH_CLIENT_SECRET =
-OAUTH_CALLBACK_URL =
